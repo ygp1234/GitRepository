@@ -1,1 +1,2 @@
-{name:dev, version:1}
+config:
+  info: "master branch,GitRepository/config-dev.yml version=1"
